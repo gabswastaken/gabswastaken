@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm gabs</h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact: i_q on discord</h3>
 <p align="left">
 </p>
 
