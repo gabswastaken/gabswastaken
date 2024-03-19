@@ -1,5 +1,5 @@
 <h1 align="center">gabs</h1>
-<h3 align="left">Discord 	![i_q](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</h3>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 <p align="left">
 </p>
 
